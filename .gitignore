@@ -1,5 +1,5 @@
 Debug/
 .vs/
 *.sln
-*.vcxproj
+*.vcxproj*
 transaction_log.txt
